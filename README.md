@@ -4,4 +4,4 @@
 
 Prerequisites: 
 	Python 3.6 or above	
-	python packages: nltk, gensim, pattern, pandas, hmmlearn, pystruct, cvxopt
+	python packages: nltk, gensim, pattern, pandas, hmmlearn, pystruct, cvxopt, python speech features
